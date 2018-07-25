@@ -1,0 +1,1 @@
+# golang_lamda_decode_protobuf_firehose
